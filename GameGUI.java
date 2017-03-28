@@ -60,7 +60,7 @@ GameGUI extends JPanel implements TicTacToeUI
       frame.add(panel);
 
       frame.setTitle("TicTacTamba");
-      frame.setSize(450, 520);
+      frame.setSize(950, 920);
       frame.setVisible(true);
 
 
